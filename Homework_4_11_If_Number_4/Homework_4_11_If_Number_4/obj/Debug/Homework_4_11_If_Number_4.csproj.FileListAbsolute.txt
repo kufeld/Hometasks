@@ -1,0 +1,5 @@
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_4\Homework_4_11_If_Number_4\bin\Debug\Homework_4_11_If_Number_4.exe.config
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_4\Homework_4_11_If_Number_4\bin\Debug\Homework_4_11_If_Number_4.exe
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_4\Homework_4_11_If_Number_4\bin\Debug\Homework_4_11_If_Number_4.pdb
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_4\Homework_4_11_If_Number_4\obj\Debug\Homework_4_11_If_Number_4.exe
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_4\Homework_4_11_If_Number_4\obj\Debug\Homework_4_11_If_Number_4.pdb
