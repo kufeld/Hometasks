@@ -4,3 +4,8 @@ C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Numbe
 C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_1\Homework_4_11_If_Number_1\obj\Debug\Homework_4_11_If_Number_1.csprojResolveAssemblyReference.cache
 C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_1\Homework_4_11_If_Number_1\obj\Debug\Homework_4_11_If_Number_1.exe
 C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_1\Homework_4_11_If_Number_1\obj\Debug\Homework_4_11_If_Number_1.pdb
+C:\Users\админ\Desktop\Programming\NewRepository\Homework_4_11_If_Number_1\Homework_4_11_If_Number_1\bin\Debug\Homework_4_11_If_Number_1.exe.config
+C:\Users\админ\Desktop\Programming\NewRepository\Homework_4_11_If_Number_1\Homework_4_11_If_Number_1\bin\Debug\Homework_4_11_If_Number_1.exe
+C:\Users\админ\Desktop\Programming\NewRepository\Homework_4_11_If_Number_1\Homework_4_11_If_Number_1\bin\Debug\Homework_4_11_If_Number_1.pdb
+C:\Users\админ\Desktop\Programming\NewRepository\Homework_4_11_If_Number_1\Homework_4_11_If_Number_1\obj\Debug\Homework_4_11_If_Number_1.exe
+C:\Users\админ\Desktop\Programming\NewRepository\Homework_4_11_If_Number_1\Homework_4_11_If_Number_1\obj\Debug\Homework_4_11_If_Number_1.pdb

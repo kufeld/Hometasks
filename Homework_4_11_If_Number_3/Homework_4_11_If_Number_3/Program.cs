@@ -25,13 +25,13 @@ namespace Homework_4_11_If_Number_3
                     numberOfYear = (year - 1984) % 60;
                 else
                     numberOfYear = (year - 1984) % 60 + 60;
-                Console.WriteLine("{0} is the year of {1} {2}.", year, getColour(numberOfYear / 12), getAnimal(numberOfYear % 12));
-                Console.ReadKey();
+                Console.WriteLine("{0} is the year of a {1} {2}.", year, GetColour(numberOfYear / 12), GetAnimal(numberOfYear % 12));
+                Console.WriteLine();
             }
 
         }
 
-        static string getColour(int number)
+        static string GetColour(int number)
         {
             switch (number)
             {
@@ -49,7 +49,7 @@ namespace Homework_4_11_If_Number_3
             }
         }
 
-        static string getAnimal(int number)
+        static string GetAnimal(int number)
         {
             switch (number)
             {

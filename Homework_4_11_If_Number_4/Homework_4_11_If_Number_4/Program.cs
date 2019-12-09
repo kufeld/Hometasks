@@ -12,6 +12,13 @@ namespace Homework_4_11_If_Number_4
         {
             Console.WriteLine("Для вычисления значения функции f(x) введите значение аргумента х");
             var x = double.Parse(Console.ReadLine());
+            Function(x);
+
+            Console.ReadKey();
+        }
+
+        static void Function(double x)
+        {
 
             if (x > 2)
             {
@@ -25,8 +32,6 @@ namespace Homework_4_11_If_Number_4
             {
                 Console.WriteLine("f(x) = -2");
             }
-
-            Console.ReadKey();
         }
     }
 }
