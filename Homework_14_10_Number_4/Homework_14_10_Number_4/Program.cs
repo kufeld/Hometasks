@@ -17,7 +17,7 @@ namespace Homework_14_10_Number_4
         }
         static double F(double x, double y, double z)
         {
-            return ((Math.Sin(x)+Math.Sin(y)) / x+y);
+            return ((Math.Sin(x)+Math.Sin(y)) / (x+y));
         }
     }
 }
