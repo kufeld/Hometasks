@@ -1,0 +1,6 @@
+C:\Users\админ\source\repos\УсловныеОператоры2\bin\Debug\УсловныеОператоры2.exe.config
+C:\Users\админ\source\repos\УсловныеОператоры2\bin\Debug\УсловныеОператоры2.exe
+C:\Users\админ\source\repos\УсловныеОператоры2\bin\Debug\УсловныеОператоры2.pdb
+C:\Users\админ\source\repos\УсловныеОператоры2\obj\Debug\УсловныеОператоры2.csprojAssemblyReference.cache
+C:\Users\админ\source\repos\УсловныеОператоры2\obj\Debug\УсловныеОператоры2.exe
+C:\Users\админ\source\repos\УсловныеОператоры2\obj\Debug\УсловныеОператоры2.pdb
