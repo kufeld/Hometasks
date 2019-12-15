@@ -1,0 +1,6 @@
+C:\Users\админ\source\repos\ОператорыЦикла6\bin\Debug\ОператорыЦикла6.exe.config
+C:\Users\админ\source\repos\ОператорыЦикла6\bin\Debug\ОператорыЦикла6.exe
+C:\Users\админ\source\repos\ОператорыЦикла6\bin\Debug\ОператорыЦикла6.pdb
+C:\Users\админ\source\repos\ОператорыЦикла6\obj\Debug\ОператорыЦикла6.csprojAssemblyReference.cache
+C:\Users\админ\source\repos\ОператорыЦикла6\obj\Debug\ОператорыЦикла6.exe
+C:\Users\админ\source\repos\ОператорыЦикла6\obj\Debug\ОператорыЦикла6.pdb
