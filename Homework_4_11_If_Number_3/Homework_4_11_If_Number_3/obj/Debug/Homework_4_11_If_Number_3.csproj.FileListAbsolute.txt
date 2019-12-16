@@ -1,0 +1,6 @@
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_3\Homework_4_11_If_Number_3\bin\Debug\Homework_4_11_If_Number_3.exe.config
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_3\Homework_4_11_If_Number_3\bin\Debug\Homework_4_11_If_Number_3.exe
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_3\Homework_4_11_If_Number_3\bin\Debug\Homework_4_11_If_Number_3.pdb
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_3\Homework_4_11_If_Number_3\obj\Debug\Homework_4_11_If_Number_3.csprojResolveAssemblyReference.cache
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_3\Homework_4_11_If_Number_3\obj\Debug\Homework_4_11_If_Number_3.exe
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_4_11_If_Number_3\Homework_4_11_If_Number_3\obj\Debug\Homework_4_11_If_Number_3.pdb

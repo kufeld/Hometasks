@@ -1,0 +1,5 @@
+c:\users\админ\documents\visual studio 2012\Projects\Homework_30_09_Number_3\Homework_30_09_Number_3\bin\Debug\Homework_30_09_Number_3.exe.config
+c:\users\админ\documents\visual studio 2012\Projects\Homework_30_09_Number_3\Homework_30_09_Number_3\bin\Debug\Homework_30_09_Number_3.exe
+c:\users\админ\documents\visual studio 2012\Projects\Homework_30_09_Number_3\Homework_30_09_Number_3\bin\Debug\Homework_30_09_Number_3.pdb
+c:\users\админ\documents\visual studio 2012\Projects\Homework_30_09_Number_3\Homework_30_09_Number_3\obj\Debug\Homework_30_09_Number_3.exe
+c:\users\админ\documents\visual studio 2012\Projects\Homework_30_09_Number_3\Homework_30_09_Number_3\obj\Debug\Homework_30_09_Number_3.pdb

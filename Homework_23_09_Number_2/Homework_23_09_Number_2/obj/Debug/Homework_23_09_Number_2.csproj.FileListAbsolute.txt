@@ -1,0 +1,6 @@
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_23_09_Number_2\Homework_23_09_Number_2\bin\Debug\Homework_23_09_Number_2.exe.config
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_23_09_Number_2\Homework_23_09_Number_2\bin\Debug\Homework_23_09_Number_2.exe
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_23_09_Number_2\Homework_23_09_Number_2\bin\Debug\Homework_23_09_Number_2.pdb
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_23_09_Number_2\Homework_23_09_Number_2\obj\Debug\Homework_23_09_Number_2.csprojResolveAssemblyReference.cache
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_23_09_Number_2\Homework_23_09_Number_2\obj\Debug\Homework_23_09_Number_2.exe
+C:\Users\админ\Documents\Visual Studio 2012\Projects\Homework_23_09_Number_2\Homework_23_09_Number_2\obj\Debug\Homework_23_09_Number_2.pdb
