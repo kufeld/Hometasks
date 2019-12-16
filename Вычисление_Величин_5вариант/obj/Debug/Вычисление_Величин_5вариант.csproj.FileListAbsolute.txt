@@ -1,0 +1,6 @@
+C:\Users\админ\source\repos\Вычисление_Величин_5вариант\bin\Debug\Вычисление_Величин_5вариант.exe.config
+C:\Users\админ\source\repos\Вычисление_Величин_5вариант\bin\Debug\Вычисление_Величин_5вариант.exe
+C:\Users\админ\source\repos\Вычисление_Величин_5вариант\bin\Debug\Вычисление_Величин_5вариант.pdb
+C:\Users\админ\source\repos\Вычисление_Величин_5вариант\obj\Debug\Вычисление_Величин_5вариант.csprojAssemblyReference.cache
+C:\Users\админ\source\repos\Вычисление_Величин_5вариант\obj\Debug\Вычисление_Величин_5вариант.exe
+C:\Users\админ\source\repos\Вычисление_Величин_5вариант\obj\Debug\Вычисление_Величин_5вариант.pdb

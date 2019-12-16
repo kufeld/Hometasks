@@ -1,0 +1,6 @@
+C:\Users\админ\source\repos\Массивы1_5вариант\obj\Debug\Массивы1_5вариант.csprojAssemblyReference.cache
+C:\Users\админ\source\repos\Массивы1_5вариант\bin\Debug\Массивы1_5вариант.exe.config
+C:\Users\админ\source\repos\Массивы1_5вариант\bin\Debug\Массивы1_5вариант.exe
+C:\Users\админ\source\repos\Массивы1_5вариант\bin\Debug\Массивы1_5вариант.pdb
+C:\Users\админ\source\repos\Массивы1_5вариант\obj\Debug\Массивы1_5вариант.exe
+C:\Users\админ\source\repos\Массивы1_5вариант\obj\Debug\Массивы1_5вариант.pdb
